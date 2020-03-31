@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="configServer" />
+        <module name="eurekaServer" />
+        <module name="hyperClient" />
+        <module name="hyperEatAccount" />
+        <module name="hyperEatClient" />
+        <module name="hyperEatMenu" />
+        <module name="hyperEatOrder" />
+        <module name="hyperEatUser" />
+        <module name="hyperMenu" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="configServer" target="1.8" />
+      <module name="eureka_demo" target="1.8" />
+      <module name="eurekaServer" target="1.8" />
+      <module name="hyperClient" target="1.8" />
+      <module name="hyperEat_parent" target="1.8" />
+      <module name="hyperEatAccount" target="1.8" />
+      <module name="hyperEatClient" target="1.8" />
+      <module name="hyperEatMenu" target="1.8" />
+      <module name="hyperEatOrder" target="1.8" />
+      <module name="hyperEatUser" target="1.8" />
+      <module name="hyperMenu" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
