@@ -1,6 +1,0 @@
-com\hyperEat\ClientApplication.class
-com\hyperEat\entity\MenuVO.class
-com\hyperEat\controller\MenuHandler.class
-com\hyperEat\feign\MenuFeign.class
-com\hyperEat\entity\Type.class
-com\hyperEat\entity\Menu.class
