@@ -48,5 +48,6 @@ public class UserHandler {
     @DeleteMapping("deleteById/{id}")
     public void deleteById(@PathVariable("id") long id){
         userRepository.deleteById(id);
+        System.out.println("deleteById");
     }
 }
