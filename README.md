@@ -15,8 +15,8 @@ Tech-stack:
 IDEA + JDK1.8 + SpringCloud + Eureka + Maven + Mybatis + Mysql + Thymeleaf
 
 Keypoint:
-.Use spring cloud config server API to make configuration files and service apart for easy maintaining.
-.Use Eureka as register center.
-.Use Spring Feign to call service APIs from other services and implement load balance.
-.Use Thymeleaf to generate dynamic HTML pages.
-.Use Mybatis to get access to the database.
+1、Use spring cloud config server API to make configuration files and service apart for easy maintaining.
+2、Use Eureka as register center.
+3、Use Spring Feign to call service APIs from other services and implement load balance.
+4、Use Thymeleaf to generate dynamic HTML pages.
+5、Use Mybatis to get access to the database.
