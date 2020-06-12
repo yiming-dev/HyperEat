@@ -1,4 +1,5 @@
-#Read me HyperEat
+HyperEat
+
 Description：
 Simple model of a distributed food ordering system design for restaurant and users。The application is used by 
 Client and administrators both these two roles have the same function like login in and log out the system so the project is designed in the following parts:
